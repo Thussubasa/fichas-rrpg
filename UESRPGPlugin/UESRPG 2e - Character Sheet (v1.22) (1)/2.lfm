@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form name="frmUESRPG_2e___Character_Sheet__v1_22___1_2_svg" align="client" theme="light" margins="{top=1}">
+    <style>#frmUESRPG_2e___Character_Sheet__v1_22___1_2_svg path {color: black; strokeColor: black; mode: stretch;} 
+#frmUESRPG_2e___Character_Sheet__v1_22___1_2_svg label {fontColor: black; textTrimming: none; wordWrap: false; autoSize: true;}</style>
+    <scrollBox align="client">
+        <rectangle width="918" height="1188" color="white">
+            <image left="0" top="0" width="918" height="1188" src="images/4.png" style="stretch" optimize="true" compilerOrder="0"/>
+            <layout left="55" top="80" width="258" height="22" compilerOrder="1">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="258" height="23" field="Combat_styles__Specializations_1" compilerOrder="2"/>
+            </layout>
+            <layout left="317" top="80" width="112" height="22" compilerOrder="17">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="112" height="23" field="Rank_Modifier_1_2" compilerOrder="18"/>
+            </layout>
+            <layout left="435" top="80" width="429" height="22" compilerOrder="33">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="429" height="23" field="Trained_Equipment_WeaponShield_Types_1" compilerOrder="34"/>
+            </layout>
+            <layout left="55" top="103" width="258" height="22" compilerOrder="3">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="258" height="23" field="Combat_styles__Specializations_2" compilerOrder="4"/>
+            </layout>
+            <layout left="317" top="103" width="112" height="22" compilerOrder="19">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="112" height="23" field="Rank_Modifier_2_2" compilerOrder="20"/>
+            </layout>
+            <layout left="435" top="103" width="429" height="22" compilerOrder="35">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="429" height="23" field="Trained_Equipment_WeaponShield_Types_2" compilerOrder="36"/>
+            </layout>
+            <layout left="55" top="126" width="258" height="22" compilerOrder="5">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="258" height="23" field="Combat_styles__Specializations_3" compilerOrder="6"/>
+            </layout>
+            <layout left="317" top="126" width="112" height="22" compilerOrder="21">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="112" height="23" field="Rank_Modifier_3_2" compilerOrder="22"/>
+            </layout>
+            <layout left="435" top="126" width="429" height="22" compilerOrder="37">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="429" height="23" field="Trained_Equipment_WeaponShield_Types_3" compilerOrder="38"/>
+            </layout>
+            <layout left="55" top="149" width="258" height="22" compilerOrder="7">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="258" height="23" field="Combat_styles__Specializations_4" compilerOrder="8"/>
+            </layout>
+            <layout left="317" top="149" width="112" height="22" compilerOrder="23">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="112" height="23" field="Rank_Modifier_4_2" compilerOrder="24"/>
+            </layout>
+            <layout left="435" top="149" width="429" height="22" compilerOrder="39">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="429" height="23" field="Trained_Equipment_WeaponShield_Types_4" compilerOrder="40"/>
+            </layout>
+            <layout left="55" top="171" width="258" height="22" compilerOrder="9">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="258" height="23" field="Combat_styles__Specializations_5" compilerOrder="10"/>
+            </layout>
+            <layout left="317" top="171" width="112" height="22" compilerOrder="25">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="112" height="23" field="Rank_Modifier_5_2" compilerOrder="26"/>
+            </layout>
+            <layout left="435" top="171" width="429" height="22" compilerOrder="41">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="429" height="23" field="Trained_Equipment_WeaponShield_Types_5" compilerOrder="42"/>
+            </layout>
+            <layout left="55" top="194" width="258" height="22" compilerOrder="11">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="258" height="23" field="Combat_styles__Specializations_6" compilerOrder="12"/>
+            </layout>
+            <layout left="317" top="194" width="112" height="22" compilerOrder="27">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="112" height="23" field="Rank_Modifier_6_2" compilerOrder="28"/>
+            </layout>
+            <layout left="435" top="194" width="429" height="22" compilerOrder="43">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="429" height="23" field="Trained_Equipment_WeaponShield_Types_6" compilerOrder="44"/>
+            </layout>
+            <layout left="55" top="217" width="258" height="22" compilerOrder="13">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="258" height="23" field="Combat_styles__Specializations_7" compilerOrder="14"/>
+            </layout>
+            <layout left="317" top="217" width="112" height="22" compilerOrder="29">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="112" height="23" field="Rank_Modifier_7_2" compilerOrder="30"/>
+            </layout>
+            <layout left="435" top="217" width="429" height="22" compilerOrder="45">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="429" height="23" field="Trained_Equipment_WeaponShield_Types_7" compilerOrder="46"/>
+            </layout>
+            <layout left="55" top="240" width="258" height="22" compilerOrder="15">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="258" height="23" field="Combat_styles__Specializations_8" compilerOrder="16"/>
+            </layout>
+            <layout left="317" top="240" width="112" height="22" compilerOrder="31">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="112" height="23" field="Rank_Modifier_8_2" compilerOrder="32"/>
+            </layout>
+            <layout left="435" top="240" width="429" height="22" compilerOrder="47">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="429" height="23" field="Trained_Equipment_WeaponShield_Types_8" compilerOrder="48"/>
+            </layout>
+            <layout left="55" top="307" width="137" height="22" compilerOrder="49">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="137" height="23" field="talents_1" compilerOrder="50"/>
+            </layout>
+            <layout left="196" top="307" width="256" height="22" compilerOrder="93">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="256" height="23" field="Effects__Notes_1" compilerOrder="94"/>
+            </layout>
+            <layout left="466" top="307" width="334" height="22" compilerOrder="161">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_1" compilerOrder="162"/>
+            </layout>
+            <layout left="806" top="307" width="58" height="22" compilerOrder="229">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_1" compilerOrder="230"/>
+            </layout>
+            <layout left="55" top="330" width="137" height="22" compilerOrder="51">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="137" height="23" field="talents_2" compilerOrder="52"/>
+            </layout>
+            <layout left="196" top="330" width="256" height="22" compilerOrder="95">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="256" height="23" field="Effects__Notes_2" compilerOrder="96"/>
+            </layout>
+            <layout left="466" top="330" width="334" height="22" compilerOrder="163">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_2" compilerOrder="164"/>
+            </layout>
+            <layout left="806" top="330" width="58" height="22" compilerOrder="231">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_2" compilerOrder="232"/>
+            </layout>
+            <layout left="55" top="352" width="137" height="22" compilerOrder="53">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="137" height="23" field="talents_3" compilerOrder="54"/>
+            </layout>
+            <layout left="196" top="352" width="256" height="22" compilerOrder="97">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="256" height="23" field="Effects__Notes_3" compilerOrder="98"/>
+            </layout>
+            <layout left="466" top="352" width="334" height="22" compilerOrder="165">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_3" compilerOrder="166"/>
+            </layout>
+            <layout left="806" top="352" width="58" height="22" compilerOrder="233">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_3" compilerOrder="234"/>
+            </layout>
+            <layout left="55" top="375" width="137" height="22" compilerOrder="55">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="137" height="23" field="talents_4" compilerOrder="56"/>
+            </layout>
+            <layout left="196" top="375" width="256" height="22" compilerOrder="99">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="256" height="23" field="Effects__Notes_4" compilerOrder="100"/>
+            </layout>
+            <layout left="466" top="375" width="334" height="22" compilerOrder="167">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_4" compilerOrder="168"/>
+            </layout>
+            <layout left="806" top="375" width="58" height="22" compilerOrder="235">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_4" compilerOrder="236"/>
+            </layout>
+            <layout left="55" top="398" width="137" height="22" compilerOrder="57">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="137" height="23" field="talents_5" compilerOrder="58"/>
+            </layout>
+            <layout left="196" top="398" width="256" height="22" compilerOrder="101">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="256" height="23" field="Effects__Notes_5" compilerOrder="102"/>
+            </layout>
+            <layout left="466" top="398" width="334" height="22" compilerOrder="169">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_5" compilerOrder="170"/>
+            </layout>
+            <layout left="806" top="398" width="58" height="22" compilerOrder="237">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_5" compilerOrder="238"/>
+            </layout>
+            <layout left="55" top="421" width="137" height="22" compilerOrder="59">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="137" height="23" field="talents_6" compilerOrder="60"/>
+            </layout>
+            <layout left="196" top="421" width="256" height="22" compilerOrder="103">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="256" height="23" field="Effects__Notes_6" compilerOrder="104"/>
+            </layout>
+            <layout left="466" top="421" width="334" height="22" compilerOrder="171">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_6" compilerOrder="172"/>
+            </layout>
+            <layout left="806" top="421" width="58" height="22" compilerOrder="239">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_6" compilerOrder="240"/>
+            </layout>
+            <layout left="55" top="444" width="137" height="22" compilerOrder="61">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="137" height="23" field="talents_7" compilerOrder="62"/>
+            </layout>
+            <layout left="196" top="444" width="256" height="22" compilerOrder="105">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="256" height="23" field="Effects__Notes_7" compilerOrder="106"/>
+            </layout>
+            <layout left="466" top="444" width="334" height="22" compilerOrder="173">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_7" compilerOrder="174"/>
+            </layout>
+            <layout left="806" top="444" width="58" height="22" compilerOrder="241">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_7" compilerOrder="242"/>
+            </layout>
+            <layout left="55" top="467" width="137" height="22" compilerOrder="63">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="137" height="23" field="talents_8" compilerOrder="64"/>
+            </layout>
+            <layout left="196" top="467" width="256" height="22" compilerOrder="107">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="256" height="23" field="Effects__Notes_8" compilerOrder="108"/>
+            </layout>
+            <layout left="466" top="467" width="334" height="22" compilerOrder="175">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_8" compilerOrder="176"/>
+            </layout>
+            <layout left="806" top="467" width="58" height="22" compilerOrder="243">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_8" compilerOrder="244"/>
+            </layout>
+            <layout left="55" top="490" width="137" height="22" compilerOrder="65">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="137" height="23" field="talents_9" compilerOrder="66"/>
+            </layout>
+            <layout left="196" top="490" width="256" height="22" compilerOrder="109">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="256" height="23" field="Effects__Notes_9" compilerOrder="110"/>
+            </layout>
+            <layout left="466" top="490" width="334" height="22" compilerOrder="177">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_9" compilerOrder="178"/>
+            </layout>
+            <layout left="806" top="490" width="58" height="22" compilerOrder="245">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_9" compilerOrder="246"/>
+            </layout>
+            <layout left="55" top="513" width="137" height="22" compilerOrder="67">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="137" height="23" field="talents_10" compilerOrder="68"/>
+            </layout>
+            <layout left="196" top="513" width="256" height="22" compilerOrder="111">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="256" height="23" field="Effects__Notes_10" compilerOrder="112"/>
+            </layout>
+            <layout left="466" top="513" width="334" height="22" compilerOrder="179">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_10" compilerOrder="180"/>
+            </layout>
+            <layout left="806" top="513" width="58" height="22" compilerOrder="247">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_10" compilerOrder="248"/>
+            </layout>
+            <layout left="55" top="536" width="137" height="22" compilerOrder="69">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="137" height="23" field="talents_11" compilerOrder="70"/>
+            </layout>
+            <layout left="196" top="536" width="256" height="22" compilerOrder="113">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="256" height="23" field="Effects__Notes_11" compilerOrder="114"/>
+            </layout>
+            <layout left="466" top="536" width="334" height="22" compilerOrder="181">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_11" compilerOrder="182"/>
+            </layout>
+            <layout left="806" top="536" width="58" height="22" compilerOrder="249">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_11" compilerOrder="250"/>
+            </layout>
+            <layout left="55" top="558" width="137" height="22" compilerOrder="71">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="137" height="23" field="talents_12" compilerOrder="72"/>
+            </layout>
+            <layout left="196" top="558" width="256" height="22" compilerOrder="115">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="256" height="23" field="Effects__Notes_12" compilerOrder="116"/>
+            </layout>
+            <layout left="466" top="558" width="334" height="22" compilerOrder="183">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_12" compilerOrder="184"/>
+            </layout>
+            <layout left="806" top="558" width="58" height="22" compilerOrder="251">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_12" compilerOrder="252"/>
+            </layout>
+            <layout left="55" top="581" width="137" height="22" compilerOrder="73">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="137" height="23" field="talents_13" compilerOrder="74"/>
+            </layout>
+            <layout left="196" top="581" width="256" height="22" compilerOrder="117">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="256" height="23" field="Effects__Notes_13" compilerOrder="118"/>
+            </layout>
+            <layout left="466" top="581" width="334" height="22" compilerOrder="185">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_13" compilerOrder="186"/>
+            </layout>
+            <layout left="806" top="581" width="58" height="22" compilerOrder="253">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_13" compilerOrder="254"/>
+            </layout>
+            <layout left="55" top="604" width="137" height="22" compilerOrder="75">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="137" height="23" field="talents_14" compilerOrder="76"/>
+            </layout>
+            <layout left="196" top="604" width="256" height="22" compilerOrder="119">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="256" height="23" field="Effects__Notes_14" compilerOrder="120"/>
+            </layout>
+            <layout left="466" top="604" width="334" height="22" compilerOrder="187">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_14" compilerOrder="188"/>
+            </layout>
+            <layout left="806" top="604" width="58" height="22" compilerOrder="255">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_14" compilerOrder="256"/>
+            </layout>
+            <layout left="55" top="627" width="137" height="22" compilerOrder="77">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="137" height="23" field="talents_15" compilerOrder="78"/>
+            </layout>
+            <layout left="196" top="627" width="256" height="22" compilerOrder="121">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="256" height="23" field="Effects__Notes_15" compilerOrder="122"/>
+            </layout>
+            <layout left="466" top="627" width="334" height="22" compilerOrder="189">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_15" compilerOrder="190"/>
+            </layout>
+            <layout left="806" top="627" width="58" height="22" compilerOrder="257">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_15" compilerOrder="258"/>
+            </layout>
+            <layout left="55" top="650" width="137" height="22" compilerOrder="79">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="137" height="23" field="talents_16" compilerOrder="80"/>
+            </layout>
+            <layout left="196" top="650" width="256" height="22" compilerOrder="123">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="256" height="23" field="Effects__Notes_16" compilerOrder="124"/>
+            </layout>
+            <layout left="466" top="650" width="334" height="22" compilerOrder="191">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_16" compilerOrder="192"/>
+            </layout>
+            <layout left="806" top="650" width="58" height="22" compilerOrder="259">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_16" compilerOrder="260"/>
+            </layout>
+            <layout left="55" top="673" width="137" height="22" compilerOrder="81">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="137" height="23" field="talents_17" compilerOrder="82"/>
+            </layout>
+            <layout left="196" top="673" width="256" height="22" compilerOrder="125">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="256" height="23" field="Effects__Notes_17" compilerOrder="126"/>
+            </layout>
+            <layout left="466" top="673" width="334" height="22" compilerOrder="193">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_17" compilerOrder="194"/>
+            </layout>
+            <layout left="806" top="673" width="58" height="22" compilerOrder="261">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_17" compilerOrder="262"/>
+            </layout>
+            <layout left="55" top="696" width="137" height="22" compilerOrder="83">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="137" height="23" field="talents_18" compilerOrder="84"/>
+            </layout>
+            <layout left="196" top="696" width="256" height="22" compilerOrder="127">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="256" height="23" field="Effects__Notes_18" compilerOrder="128"/>
+            </layout>
+            <layout left="466" top="696" width="334" height="22" compilerOrder="195">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_18" compilerOrder="196"/>
+            </layout>
+            <layout left="806" top="696" width="58" height="22" compilerOrder="263">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_18" compilerOrder="264"/>
+            </layout>
+            <layout left="55" top="719" width="137" height="22" compilerOrder="85">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="137" height="23" field="talents_19" compilerOrder="86"/>
+            </layout>
+            <layout left="196" top="719" width="256" height="22" compilerOrder="129">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="256" height="23" field="Effects__Notes_19" compilerOrder="130"/>
+            </layout>
+            <layout left="466" top="719" width="334" height="22" compilerOrder="197">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_19" compilerOrder="198"/>
+            </layout>
+            <layout left="806" top="719" width="58" height="22" compilerOrder="265">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_19" compilerOrder="266"/>
+            </layout>
+            <layout left="55" top="741" width="137" height="22" compilerOrder="87">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="137" height="23" field="talents_20" compilerOrder="88"/>
+            </layout>
+            <layout left="196" top="741" width="256" height="22" compilerOrder="131">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="256" height="23" field="Effects__Notes_20" compilerOrder="132"/>
+            </layout>
+            <layout left="466" top="741" width="334" height="22" compilerOrder="199">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_20" compilerOrder="200"/>
+            </layout>
+            <layout left="806" top="741" width="58" height="22" compilerOrder="267">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_20" compilerOrder="268"/>
+            </layout>
+            <layout left="55" top="764" width="137" height="22" compilerOrder="89">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="137" height="23" field="talents_21" compilerOrder="90"/>
+            </layout>
+            <layout left="196" top="764" width="256" height="22" compilerOrder="133">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="256" height="23" field="Effects__Notes_21" compilerOrder="134"/>
+            </layout>
+            <layout left="466" top="764" width="334" height="22" compilerOrder="201">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_21" compilerOrder="202"/>
+            </layout>
+            <layout left="806" top="764" width="58" height="22" compilerOrder="269">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_21" compilerOrder="270"/>
+            </layout>
+            <layout left="55" top="787" width="137" height="22" compilerOrder="91">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="137" height="23" field="talents_22" compilerOrder="92"/>
+            </layout>
+            <layout left="196" top="787" width="256" height="22" compilerOrder="135">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="256" height="23" field="Effects__Notes_22" compilerOrder="136"/>
+            </layout>
+            <layout left="466" top="787" width="334" height="22" compilerOrder="203">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_22" compilerOrder="204"/>
+            </layout>
+            <layout left="806" top="787" width="58" height="22" compilerOrder="271">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_22" compilerOrder="272"/>
+            </layout>
+            <layout left="466" top="810" width="334" height="22" compilerOrder="205">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_23" compilerOrder="206"/>
+            </layout>
+            <layout left="806" top="810" width="58" height="22" compilerOrder="273">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_23" compilerOrder="274"/>
+            </layout>
+            <layout left="466" top="833" width="334" height="22" compilerOrder="207">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_24" compilerOrder="208"/>
+            </layout>
+            <layout left="806" top="833" width="58" height="22" compilerOrder="275">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_24" compilerOrder="276"/>
+            </layout>
+            <layout left="55" top="853" width="398" height="22" compilerOrder="137">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="398" height="23" field="notes_1" compilerOrder="138"/>
+            </layout>
+            <layout left="466" top="856" width="334" height="22" compilerOrder="209">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_25" compilerOrder="210"/>
+            </layout>
+            <layout left="806" top="856" width="58" height="22" compilerOrder="277">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_25" compilerOrder="278"/>
+            </layout>
+            <layout left="55" top="876" width="398" height="22" compilerOrder="139">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="398" height="23" field="notes_2" compilerOrder="140"/>
+            </layout>
+            <layout left="466" top="879" width="334" height="22" compilerOrder="211">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_26" compilerOrder="212"/>
+            </layout>
+            <layout left="806" top="879" width="58" height="22" compilerOrder="279">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_26" compilerOrder="280"/>
+            </layout>
+            <layout left="55" top="899" width="398" height="22" compilerOrder="141">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="398" height="23" field="notes_3" compilerOrder="142"/>
+            </layout>
+            <layout left="466" top="901" width="334" height="22" compilerOrder="213">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_27" compilerOrder="214"/>
+            </layout>
+            <layout left="806" top="901" width="58" height="22" compilerOrder="281">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_27" compilerOrder="282"/>
+            </layout>
+            <layout left="55" top="922" width="398" height="22" compilerOrder="143">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="398" height="23" field="notes_4" compilerOrder="144"/>
+            </layout>
+            <layout left="466" top="924" width="334" height="22" compilerOrder="215">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_28" compilerOrder="216"/>
+            </layout>
+            <layout left="806" top="924" width="58" height="22" compilerOrder="283">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_28" compilerOrder="284"/>
+            </layout>
+            <layout left="55" top="945" width="398" height="22" compilerOrder="145">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="398" height="23" field="notes_5" compilerOrder="146"/>
+            </layout>
+            <layout left="466" top="947" width="334" height="22" compilerOrder="217">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_29" compilerOrder="218"/>
+            </layout>
+            <layout left="806" top="947" width="58" height="22" compilerOrder="285">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_29" compilerOrder="286"/>
+            </layout>
+            <layout left="55" top="968" width="398" height="22" compilerOrder="147">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="398" height="23" field="notes_6" compilerOrder="148"/>
+            </layout>
+            <layout left="466" top="970" width="334" height="22" compilerOrder="219">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_30" compilerOrder="220"/>
+            </layout>
+            <layout left="806" top="970" width="58" height="22" compilerOrder="287">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_30" compilerOrder="288"/>
+            </layout>
+            <layout left="55" top="991" width="398" height="22" compilerOrder="149">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="398" height="23" field="notes_7" compilerOrder="150"/>
+            </layout>
+            <layout left="466" top="993" width="334" height="22" compilerOrder="221">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_31" compilerOrder="222"/>
+            </layout>
+            <layout left="806" top="993" width="58" height="22" compilerOrder="289">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_31" compilerOrder="290"/>
+            </layout>
+            <layout left="55" top="1013" width="398" height="22" compilerOrder="151">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="398" height="23" field="notes_8" compilerOrder="152"/>
+            </layout>
+            <layout left="466" top="1016" width="334" height="22" compilerOrder="223">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_32" compilerOrder="224"/>
+            </layout>
+            <layout left="806" top="1016" width="58" height="22" compilerOrder="291">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_32" compilerOrder="292"/>
+            </layout>
+            <layout left="55" top="1036" width="398" height="22" compilerOrder="153">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="398" height="23" field="notes_9" compilerOrder="154"/>
+            </layout>
+            <layout left="466" top="1039" width="334" height="22" compilerOrder="225">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_33" compilerOrder="226"/>
+            </layout>
+            <layout left="806" top="1039" width="58" height="22" compilerOrder="293">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_33" compilerOrder="294"/>
+            </layout>
+            <layout left="55" top="1059" width="398" height="22" compilerOrder="155">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="398" height="23" field="notes_10" compilerOrder="156"/>
+            </layout>
+            <layout left="466" top="1062" width="334" height="22" compilerOrder="227">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="334" height="23" field="items__equiPment_Weapons_on_next_page_34" compilerOrder="228"/>
+            </layout>
+            <layout left="806" top="1062" width="58" height="22" compilerOrder="295">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_34" compilerOrder="296"/>
+            </layout>
+            <layout left="55" top="1082" width="398" height="22" compilerOrder="157">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="398" height="23" field="notes_11" compilerOrder="158"/>
+            </layout>
+            <layout left="806" top="1085" width="58" height="22" compilerOrder="297">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="ENC_35" compilerOrder="298"/>
+            </layout>
+            <layout left="55" top="1105" width="398" height="22" compilerOrder="159">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="398" height="23" field="notes_12" compilerOrder="160"/>
+            </layout>
+            <layout left="806" top="1107" width="58" height="22" compilerOrder="299">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="58" height="23" field="Drakes" compilerOrder="300"/>
+            </layout>
+        </rectangle>
+    </scrollBox>
+</form>

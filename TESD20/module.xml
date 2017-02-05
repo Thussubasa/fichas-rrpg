@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module sdkVersion="3.3">
+	<!--O id identifica seu plugin globalmente. Deve ser único, conter apenas caracteres alfanuméricos, underlines, pontos e deve conter ao menos 5 caracteres e um máximo de 40. Uma vez definido o ID, você não deve alterar ele ;) -->
+	<id>tes_id</id>
+	<!--version é a versão do seu plugin. Quando for lançar uma nova versão do seu módulo, altere aqui =) -->
+	<version>1.2</version>
+	<name>The Elder Scrolls: D20</name>
+	<description>Plugin para a ficha de personagem do sistema The Elder Scrolls: D20 criado por Michael Ponticello </description>
+	<author>Gustavo Rodarte</author>
+	<site>asdmdas.com</site>
+	<contact>guga.rodarte@hotmail.com</contact>
+</module>

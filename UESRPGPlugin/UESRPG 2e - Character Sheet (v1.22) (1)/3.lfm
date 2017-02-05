@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form name="frmUESRPG_2e___Character_Sheet__v1_22___1_3_svg" align="client" theme="light" margins="{top=1}">
+    <style>#frmUESRPG_2e___Character_Sheet__v1_22___1_3_svg path {color: black; strokeColor: black; mode: stretch;} 
+#frmUESRPG_2e___Character_Sheet__v1_22___1_3_svg label {fontColor: black; textTrimming: none; wordWrap: false; autoSize: true;}</style>
+    <scrollBox align="client">
+        <rectangle width="918" height="1188" color="white">
+            <image left="0" top="0" width="918" height="1188" src="images/7.png" style="stretch" optimize="true" compilerOrder="0"/>
+            <layout left="55" top="80" width="180" height="22" compilerOrder="1">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="180" height="23" field="melee_weaPons_1" compilerOrder="2"/>
+            </layout>
+            <layout left="240" top="80" width="81" height="22" compilerOrder="15">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="81" height="23" field="Damage_1" compilerOrder="16"/>
+            </layout>
+            <layout left="326" top="80" width="36" height="22" compilerOrder="29">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="36" height="23" field="Pen_1" compilerOrder="30"/>
+            </layout>
+            <layout left="367" top="80" width="44" height="22" compilerOrder="43">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="44" height="23" field="Size_1" compilerOrder="44"/>
+            </layout>
+            <layout left="416" top="80" width="50" height="22" compilerOrder="57">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="50" height="23" field="Reach_1" compilerOrder="58"/>
+            </layout>
+            <layout left="471" top="80" width="338" height="22" compilerOrder="71">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="338" height="23" field="Qualities_1" compilerOrder="72"/>
+            </layout>
+            <layout left="815" top="80" width="48" height="22" compilerOrder="85">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="48" height="23" field="ENC_1_2" compilerOrder="86"/>
+            </layout>
+            <layout left="55" top="103" width="180" height="22" compilerOrder="3">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="180" height="23" field="melee_weaPons_2" compilerOrder="4"/>
+            </layout>
+            <layout left="240" top="103" width="81" height="22" compilerOrder="17">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="81" height="23" field="Damage_2" compilerOrder="18"/>
+            </layout>
+            <layout left="326" top="103" width="36" height="22" compilerOrder="31">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="36" height="23" field="Pen_2" compilerOrder="32"/>
+            </layout>
+            <layout left="367" top="103" width="44" height="22" compilerOrder="45">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="44" height="23" field="Size_2" compilerOrder="46"/>
+            </layout>
+            <layout left="416" top="103" width="50" height="22" compilerOrder="59">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="50" height="23" field="Reach_2" compilerOrder="60"/>
+            </layout>
+            <layout left="471" top="103" width="338" height="22" compilerOrder="73">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="338" height="23" field="Qualities_2" compilerOrder="74"/>
+            </layout>
+            <layout left="815" top="103" width="48" height="22" compilerOrder="87">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="48" height="23" field="ENC_2_2" compilerOrder="88"/>
+            </layout>
+            <layout left="55" top="126" width="180" height="22" compilerOrder="5">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="180" height="23" field="melee_weaPons_3" compilerOrder="6"/>
+            </layout>
+            <layout left="240" top="126" width="81" height="22" compilerOrder="19">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="81" height="23" field="Damage_3" compilerOrder="20"/>
+            </layout>
+            <layout left="326" top="126" width="36" height="22" compilerOrder="33">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="36" height="23" field="Pen_3" compilerOrder="34"/>
+            </layout>
+            <layout left="367" top="126" width="44" height="22" compilerOrder="47">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="44" height="23" field="Size_3" compilerOrder="48"/>
+            </layout>
+            <layout left="416" top="126" width="50" height="22" compilerOrder="61">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="50" height="23" field="Reach_3" compilerOrder="62"/>
+            </layout>
+            <layout left="471" top="126" width="338" height="22" compilerOrder="75">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="338" height="23" field="Qualities_3" compilerOrder="76"/>
+            </layout>
+            <layout left="815" top="126" width="48" height="22" compilerOrder="89">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="48" height="23" field="ENC_3_2" compilerOrder="90"/>
+            </layout>
+            <layout left="55" top="149" width="180" height="22" compilerOrder="7">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="180" height="23" field="melee_weaPons_4" compilerOrder="8"/>
+            </layout>
+            <layout left="240" top="149" width="81" height="22" compilerOrder="21">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="81" height="23" field="Damage_4" compilerOrder="22"/>
+            </layout>
+            <layout left="326" top="149" width="36" height="22" compilerOrder="35">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="36" height="23" field="Pen_4" compilerOrder="36"/>
+            </layout>
+            <layout left="367" top="149" width="44" height="22" compilerOrder="49">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="44" height="23" field="Size_4" compilerOrder="50"/>
+            </layout>
+            <layout left="416" top="149" width="50" height="22" compilerOrder="63">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="50" height="23" field="Reach_4" compilerOrder="64"/>
+            </layout>
+            <layout left="471" top="149" width="338" height="22" compilerOrder="77">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="338" height="23" field="Qualities_4" compilerOrder="78"/>
+            </layout>
+            <layout left="815" top="149" width="48" height="22" compilerOrder="91">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="48" height="23" field="ENC_4_2" compilerOrder="92"/>
+            </layout>
+            <layout left="55" top="171" width="180" height="22" compilerOrder="9">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="180" height="23" field="melee_weaPons_5" compilerOrder="10"/>
+            </layout>
+            <layout left="240" top="171" width="81" height="22" compilerOrder="23">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="81" height="23" field="Damage_5" compilerOrder="24"/>
+            </layout>
+            <layout left="326" top="171" width="36" height="22" compilerOrder="37">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="36" height="23" field="Pen_5" compilerOrder="38"/>
+            </layout>
+            <layout left="367" top="171" width="44" height="22" compilerOrder="51">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="44" height="23" field="Size_5" compilerOrder="52"/>
+            </layout>
+            <layout left="416" top="171" width="50" height="22" compilerOrder="65">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="50" height="23" field="Reach_5" compilerOrder="66"/>
+            </layout>
+            <layout left="471" top="171" width="338" height="22" compilerOrder="79">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="338" height="23" field="Qualities_5" compilerOrder="80"/>
+            </layout>
+            <layout left="815" top="171" width="48" height="22" compilerOrder="93">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="48" height="23" field="ENC_5_2" compilerOrder="94"/>
+            </layout>
+            <layout left="55" top="194" width="180" height="22" compilerOrder="11">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="180" height="23" field="melee_weaPons_6" compilerOrder="12"/>
+            </layout>
+            <layout left="240" top="194" width="81" height="22" compilerOrder="25">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="81" height="23" field="Damage_6" compilerOrder="26"/>
+            </layout>
+            <layout left="326" top="194" width="36" height="22" compilerOrder="39">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="36" height="23" field="Pen_6" compilerOrder="40"/>
+            </layout>
+            <layout left="367" top="194" width="44" height="22" compilerOrder="53">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="44" height="23" field="Size_6" compilerOrder="54"/>
+            </layout>
+            <layout left="416" top="194" width="50" height="22" compilerOrder="67">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="50" height="23" field="Reach_6" compilerOrder="68"/>
+            </layout>
+            <layout left="471" top="194" width="338" height="22" compilerOrder="81">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="338" height="23" field="Qualities_6" compilerOrder="82"/>
+            </layout>
+            <layout left="815" top="194" width="48" height="22" compilerOrder="95">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="48" height="23" field="ENC_6_2" compilerOrder="96"/>
+            </layout>
+            <layout left="55" top="217" width="180" height="22" compilerOrder="13">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="180" height="23" field="melee_weaPons_7" compilerOrder="14"/>
+            </layout>
+            <layout left="240" top="217" width="81" height="22" compilerOrder="27">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="81" height="23" field="Damage_7" compilerOrder="28"/>
+            </layout>
+            <layout left="326" top="217" width="36" height="22" compilerOrder="41">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="36" height="23" field="Pen_7" compilerOrder="42"/>
+            </layout>
+            <layout left="367" top="217" width="44" height="22" compilerOrder="55">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="44" height="23" field="Size_7" compilerOrder="56"/>
+            </layout>
+            <layout left="416" top="217" width="50" height="22" compilerOrder="69">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="50" height="23" field="Reach_7" compilerOrder="70"/>
+            </layout>
+            <layout left="471" top="217" width="338" height="22" compilerOrder="83">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="338" height="23" field="Qualities_7" compilerOrder="84"/>
+            </layout>
+            <layout left="815" top="217" width="48" height="22" compilerOrder="97">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="48" height="23" field="ENC_7_2" compilerOrder="98"/>
+            </layout>
+            <layout left="55" top="272" width="180" height="22" compilerOrder="99">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="180" height="23" field="ranged_weaPons_1" compilerOrder="100"/>
+            </layout>
+            <layout left="240" top="272" width="81" height="22" compilerOrder="109">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="81" height="23" field="Damage_1_2" compilerOrder="110"/>
+            </layout>
+            <layout left="326" top="272" width="36" height="22" compilerOrder="119">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="36" height="23" field="Pen_1_2" compilerOrder="120"/>
+            </layout>
+            <layout left="367" top="272" width="27" height="22" compilerOrder="129">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="27" height="23" field="IS_1" compilerOrder="130"/>
+            </layout>
+            <layout left="399" top="272" width="81" height="22" compilerOrder="139">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="81" height="23" field="Range_1" compilerOrder="140"/>
+            </layout>
+            <layout left="486" top="272" width="34" height="22" compilerOrder="149">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="34" height="23" field="Rld_1" compilerOrder="150"/>
+            </layout>
+            <layout left="525" top="272" width="284" height="22" compilerOrder="159">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="284" height="23" field="Qualities_1_2" compilerOrder="160"/>
+            </layout>
+            <layout left="815" top="272" width="48" height="22" compilerOrder="169">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="48" height="23" field="ENC_1_3" compilerOrder="170"/>
+            </layout>
+            <layout left="55" top="295" width="180" height="22" compilerOrder="101">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="180" height="23" field="ranged_weaPons_2" compilerOrder="102"/>
+            </layout>
+            <layout left="240" top="295" width="81" height="22" compilerOrder="111">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="81" height="23" field="Damage_2_2" compilerOrder="112"/>
+            </layout>
+            <layout left="326" top="295" width="36" height="22" compilerOrder="121">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="36" height="23" field="Pen_2_2" compilerOrder="122"/>
+            </layout>
+            <layout left="367" top="295" width="27" height="22" compilerOrder="131">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="27" height="23" field="IS_2" compilerOrder="132"/>
+            </layout>
+            <layout left="399" top="295" width="81" height="22" compilerOrder="141">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="81" height="23" field="Range_2" compilerOrder="142"/>
+            </layout>
+            <layout left="486" top="295" width="34" height="22" compilerOrder="151">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="34" height="23" field="Rld_2" compilerOrder="152"/>
+            </layout>
+            <layout left="525" top="295" width="284" height="22" compilerOrder="161">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="284" height="23" field="Qualities_2_2" compilerOrder="162"/>
+            </layout>
+            <layout left="815" top="295" width="48" height="22" compilerOrder="171">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="48" height="23" field="ENC_2_3" compilerOrder="172"/>
+            </layout>
+            <layout left="55" top="318" width="180" height="22" compilerOrder="103">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="180" height="23" field="ranged_weaPons_3" compilerOrder="104"/>
+            </layout>
+            <layout left="240" top="318" width="81" height="22" compilerOrder="113">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="81" height="23" field="Damage_3_2" compilerOrder="114"/>
+            </layout>
+            <layout left="326" top="318" width="36" height="22" compilerOrder="123">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="36" height="23" field="Pen_3_2" compilerOrder="124"/>
+            </layout>
+            <layout left="367" top="318" width="27" height="22" compilerOrder="133">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="27" height="23" field="IS_3" compilerOrder="134"/>
+            </layout>
+            <layout left="399" top="318" width="81" height="22" compilerOrder="143">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="81" height="23" field="Range_3" compilerOrder="144"/>
+            </layout>
+            <layout left="486" top="318" width="34" height="22" compilerOrder="153">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="34" height="23" field="Rld_3" compilerOrder="154"/>
+            </layout>
+            <layout left="525" top="318" width="284" height="22" compilerOrder="163">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="284" height="23" field="Qualities_3_2" compilerOrder="164"/>
+            </layout>
+            <layout left="815" top="318" width="48" height="22" compilerOrder="173">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="48" height="23" field="ENC_3_3" compilerOrder="174"/>
+            </layout>
+            <layout left="55" top="340" width="180" height="22" compilerOrder="105">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="180" height="23" field="ranged_weaPons_4" compilerOrder="106"/>
+            </layout>
+            <layout left="240" top="340" width="81" height="22" compilerOrder="115">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="81" height="23" field="Damage_4_2" compilerOrder="116"/>
+            </layout>
+            <layout left="326" top="340" width="36" height="22" compilerOrder="125">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="36" height="23" field="Pen_4_2" compilerOrder="126"/>
+            </layout>
+            <layout left="367" top="340" width="27" height="22" compilerOrder="135">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="27" height="23" field="IS_4" compilerOrder="136"/>
+            </layout>
+            <layout left="399" top="340" width="81" height="22" compilerOrder="145">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="81" height="23" field="Range_4" compilerOrder="146"/>
+            </layout>
+            <layout left="486" top="340" width="34" height="22" compilerOrder="155">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="34" height="23" field="Rld_4" compilerOrder="156"/>
+            </layout>
+            <layout left="525" top="340" width="284" height="22" compilerOrder="165">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="284" height="23" field="Qualities_4_2" compilerOrder="166"/>
+            </layout>
+            <layout left="815" top="340" width="48" height="22" compilerOrder="175">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="48" height="23" field="ENC_4_3" compilerOrder="176"/>
+            </layout>
+            <layout left="55" top="363" width="180" height="22" compilerOrder="107">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="180" height="23" field="ranged_weaPons_5" compilerOrder="108"/>
+            </layout>
+            <layout left="240" top="363" width="81" height="22" compilerOrder="117">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="81" height="23" field="Damage_5_2" compilerOrder="118"/>
+            </layout>
+            <layout left="326" top="363" width="36" height="22" compilerOrder="127">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="36" height="23" field="Pen_5_2" compilerOrder="128"/>
+            </layout>
+            <layout left="367" top="363" width="27" height="22" compilerOrder="137">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="27" height="23" field="IS_5" compilerOrder="138"/>
+            </layout>
+            <layout left="399" top="363" width="81" height="22" compilerOrder="147">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="81" height="23" field="Range_5" compilerOrder="148"/>
+            </layout>
+            <layout left="486" top="363" width="34" height="22" compilerOrder="157">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="34" height="23" field="Rld_5" compilerOrder="158"/>
+            </layout>
+            <layout left="525" top="363" width="284" height="22" compilerOrder="167">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="284" height="23" field="Qualities_5_2" compilerOrder="168"/>
+            </layout>
+            <layout left="815" top="363" width="48" height="22" compilerOrder="177">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="48" height="23" field="ENC_5_3" compilerOrder="178"/>
+            </layout>
+            <layout left="55" top="420" width="173" height="22" compilerOrder="179">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="173" height="23" field="known_magiC_1" compilerOrder="180"/>
+            </layout>
+            <layout left="233" top="420" width="133" height="22" compilerOrder="241">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="133" height="23" field="Cost__Difficulty_1" compilerOrder="242"/>
+            </layout>
+            <layout left="374" top="420" width="491" height="22" compilerOrder="303">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="491" height="23" field="Effects__Notes_1_2" compilerOrder="304"/>
+            </layout>
+            <layout left="55" top="443" width="173" height="22" compilerOrder="181">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="173" height="23" field="known_magiC_2" compilerOrder="182"/>
+            </layout>
+            <layout left="233" top="443" width="133" height="22" compilerOrder="243">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="133" height="23" field="Cost__Difficulty_2" compilerOrder="244"/>
+            </layout>
+            <layout left="374" top="443" width="491" height="22" compilerOrder="305">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="491" height="23" field="Effects__Notes_2_2" compilerOrder="306"/>
+            </layout>
+            <layout left="55" top="465" width="173" height="22" compilerOrder="183">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="173" height="23" field="known_magiC_3" compilerOrder="184"/>
+            </layout>
+            <layout left="233" top="465" width="133" height="22" compilerOrder="245">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="133" height="23" field="Cost__Difficulty_3" compilerOrder="246"/>
+            </layout>
+            <layout left="374" top="465" width="491" height="22" compilerOrder="307">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="491" height="23" field="Effects__Notes_3_2" compilerOrder="308"/>
+            </layout>
+            <layout left="55" top="488" width="173" height="22" compilerOrder="185">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="173" height="23" field="known_magiC_4" compilerOrder="186"/>
+            </layout>
+            <layout left="233" top="488" width="133" height="22" compilerOrder="247">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="133" height="23" field="Cost__Difficulty_4" compilerOrder="248"/>
+            </layout>
+            <layout left="374" top="488" width="491" height="22" compilerOrder="309">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="491" height="23" field="Effects__Notes_4_2" compilerOrder="310"/>
+            </layout>
+            <layout left="55" top="511" width="173" height="22" compilerOrder="187">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="173" height="23" field="known_magiC_5" compilerOrder="188"/>
+            </layout>
+            <layout left="233" top="511" width="133" height="22" compilerOrder="249">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="133" height="23" field="Cost__Difficulty_5" compilerOrder="250"/>
+            </layout>
+            <layout left="374" top="511" width="491" height="22" compilerOrder="311">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="491" height="23" field="Effects__Notes_5_2" compilerOrder="312"/>
+            </layout>
+            <layout left="55" top="534" width="173" height="22" compilerOrder="189">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="173" height="23" field="known_magiC_6" compilerOrder="190"/>
+            </layout>
+            <layout left="233" top="534" width="133" height="22" compilerOrder="251">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="133" height="23" field="Cost__Difficulty_6" compilerOrder="252"/>
+            </layout>
+            <layout left="374" top="534" width="491" height="22" compilerOrder="313">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="491" height="23" field="Effects__Notes_6_2" compilerOrder="314"/>
+            </layout>
+            <layout left="55" top="557" width="173" height="22" compilerOrder="191">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="173" height="23" field="known_magiC_7" compilerOrder="192"/>
+            </layout>
+            <layout left="233" top="557" width="133" height="22" compilerOrder="253">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="133" height="23" field="Cost__Difficulty_7" compilerOrder="254"/>
+            </layout>
+            <layout left="374" top="557" width="491" height="22" compilerOrder="315">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="491" height="23" field="Effects__Notes_7_2" compilerOrder="316"/>
+            </layout>
+            <layout left="55" top="580" width="173" height="22" compilerOrder="193">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="173" height="23" field="known_magiC_8" compilerOrder="194"/>
+            </layout>
+            <layout left="233" top="580" width="133" height="22" compilerOrder="255">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="133" height="23" field="Cost__Difficulty_8" compilerOrder="256"/>
+            </layout>
+            <layout left="374" top="580" width="491" height="22" compilerOrder="317">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="491" height="23" field="Effects__Notes_8_2" compilerOrder="318"/>
+            </layout>
+            <layout left="55" top="603" width="173" height="22" compilerOrder="195">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="173" height="23" field="known_magiC_9" compilerOrder="196"/>
+            </layout>
+            <layout left="233" top="603" width="133" height="22" compilerOrder="257">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="133" height="23" field="Cost__Difficulty_9" compilerOrder="258"/>
+            </layout>
+            <layout left="374" top="603" width="491" height="22" compilerOrder="319">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="491" height="23" field="Effects__Notes_9_2" compilerOrder="320"/>
+            </layout>
+            <layout left="55" top="626" width="173" height="22" compilerOrder="197">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="173" height="23" field="known_magiC_10" compilerOrder="198"/>
+            </layout>
+            <layout left="233" top="626" width="133" height="22" compilerOrder="259">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="133" height="23" field="Cost__Difficulty_10" compilerOrder="260"/>
+            </layout>
+            <layout left="374" top="626" width="491" height="22" compilerOrder="321">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="491" height="23" field="Effects__Notes_10_2" compilerOrder="322"/>
+            </layout>
+            <layout left="55" top="649" width="173" height="22" compilerOrder="199">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="173" height="23" field="known_magiC_11" compilerOrder="200"/>
+            </layout>
+            <layout left="233" top="649" width="133" height="22" compilerOrder="261">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="133" height="23" field="Cost__Difficulty_11" compilerOrder="262"/>
+            </layout>
+            <layout left="374" top="649" width="491" height="22" compilerOrder="323">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="491" height="23" field="Effects__Notes_11_2" compilerOrder="324"/>
+            </layout>
+            <layout left="55" top="671" width="173" height="22" compilerOrder="201">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="173" height="23" field="known_magiC_12" compilerOrder="202"/>
+            </layout>
+            <layout left="233" top="671" width="133" height="22" compilerOrder="263">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="133" height="23" field="Cost__Difficulty_12" compilerOrder="264"/>
+            </layout>
+            <layout left="374" top="671" width="491" height="22" compilerOrder="325">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="491" height="23" field="Effects__Notes_12_2" compilerOrder="326"/>
+            </layout>
+            <layout left="55" top="694" width="173" height="22" compilerOrder="203">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="173" height="23" field="known_magiC_13" compilerOrder="204"/>
+            </layout>
+            <layout left="233" top="694" width="133" height="22" compilerOrder="265">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="133" height="23" field="Cost__Difficulty_13" compilerOrder="266"/>
+            </layout>
+            <layout left="374" top="694" width="491" height="22" compilerOrder="327">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="491" height="23" field="Effects__Notes_13_2" compilerOrder="328"/>
+            </layout>
+            <layout left="55" top="717" width="173" height="22" compilerOrder="205">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="173" height="23" field="known_magiC_14" compilerOrder="206"/>
+            </layout>
+            <layout left="233" top="717" width="133" height="22" compilerOrder="267">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="133" height="23" field="Cost__Difficulty_14" compilerOrder="268"/>
+            </layout>
+            <layout left="374" top="717" width="491" height="22" compilerOrder="329">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="491" height="23" field="Effects__Notes_14_2" compilerOrder="330"/>
+            </layout>
+            <layout left="55" top="740" width="173" height="22" compilerOrder="207">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="173" height="23" field="known_magiC_15" compilerOrder="208"/>
+            </layout>
+            <layout left="233" top="740" width="133" height="22" compilerOrder="269">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="133" height="23" field="Cost__Difficulty_15" compilerOrder="270"/>
+            </layout>
+            <layout left="374" top="740" width="491" height="22" compilerOrder="331">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="491" height="23" field="Effects__Notes_15_2" compilerOrder="332"/>
+            </layout>
+            <layout left="55" top="763" width="173" height="22" compilerOrder="209">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="173" height="23" field="known_magiC_16" compilerOrder="210"/>
+            </layout>
+            <layout left="233" top="763" width="133" height="22" compilerOrder="271">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="133" height="23" field="Cost__Difficulty_16" compilerOrder="272"/>
+            </layout>
+            <layout left="374" top="763" width="491" height="22" compilerOrder="333">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="491" height="23" field="Effects__Notes_16_2" compilerOrder="334"/>
+            </layout>
+            <layout left="55" top="786" width="173" height="22" compilerOrder="211">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="173" height="23" field="known_magiC_17" compilerOrder="212"/>
+            </layout>
+            <layout left="233" top="786" width="133" height="22" compilerOrder="273">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="133" height="23" field="Cost__Difficulty_17" compilerOrder="274"/>
+            </layout>
+            <layout left="374" top="786" width="491" height="22" compilerOrder="335">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="491" height="23" field="Effects__Notes_17_2" compilerOrder="336"/>
+            </layout>
+            <layout left="55" top="809" width="173" height="22" compilerOrder="213">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="173" height="23" field="known_magiC_18" compilerOrder="214"/>
+            </layout>
+            <layout left="233" top="809" width="133" height="22" compilerOrder="275">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="133" height="23" field="Cost__Difficulty_18" compilerOrder="276"/>
+            </layout>
+            <layout left="374" top="809" width="491" height="22" compilerOrder="337">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="491" height="23" field="Effects__Notes_18_2" compilerOrder="338"/>
+            </layout>
+            <layout left="55" top="832" width="173" height="22" compilerOrder="215">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="173" height="23" field="known_magiC_19" compilerOrder="216"/>
+            </layout>
+            <layout left="233" top="832" width="133" height="22" compilerOrder="277">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="133" height="23" field="Cost__Difficulty_19" compilerOrder="278"/>
+            </layout>
+            <layout left="374" top="832" width="491" height="22" compilerOrder="339">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="491" height="23" field="Effects__Notes_19_2" compilerOrder="340"/>
+            </layout>
+            <layout left="55" top="854" width="173" height="22" compilerOrder="217">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="173" height="23" field="known_magiC_20" compilerOrder="218"/>
+            </layout>
+            <layout left="233" top="854" width="133" height="22" compilerOrder="279">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="133" height="23" field="Cost__Difficulty_20" compilerOrder="280"/>
+            </layout>
+            <layout left="374" top="854" width="491" height="22" compilerOrder="341">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="491" height="23" field="Effects__Notes_20_2" compilerOrder="342"/>
+            </layout>
+            <layout left="55" top="877" width="173" height="22" compilerOrder="219">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="173" height="23" field="known_magiC_21" compilerOrder="220"/>
+            </layout>
+            <layout left="233" top="877" width="133" height="22" compilerOrder="281">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="133" height="23" field="Cost__Difficulty_21" compilerOrder="282"/>
+            </layout>
+            <layout left="374" top="877" width="491" height="22" compilerOrder="343">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="491" height="23" field="Effects__Notes_21_2" compilerOrder="344"/>
+            </layout>
+            <layout left="55" top="900" width="173" height="22" compilerOrder="221">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="173" height="23" field="known_magiC_22" compilerOrder="222"/>
+            </layout>
+            <layout left="233" top="900" width="133" height="22" compilerOrder="283">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="133" height="23" field="Cost__Difficulty_22" compilerOrder="284"/>
+            </layout>
+            <layout left="374" top="900" width="491" height="22" compilerOrder="345">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="491" height="23" field="Effects__Notes_22_2" compilerOrder="346"/>
+            </layout>
+            <layout left="55" top="923" width="173" height="22" compilerOrder="223">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="173" height="23" field="known_magiC_23" compilerOrder="224"/>
+            </layout>
+            <layout left="233" top="923" width="133" height="22" compilerOrder="285">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="133" height="23" field="Cost__Difficulty_23" compilerOrder="286"/>
+            </layout>
+            <layout left="374" top="923" width="491" height="22" compilerOrder="347">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="491" height="23" field="Effects__Notes_23" compilerOrder="348"/>
+            </layout>
+            <layout left="55" top="946" width="173" height="22" compilerOrder="225">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="173" height="23" field="known_magiC_24" compilerOrder="226"/>
+            </layout>
+            <layout left="233" top="946" width="133" height="22" compilerOrder="287">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="133" height="23" field="Cost__Difficulty_24" compilerOrder="288"/>
+            </layout>
+            <layout left="374" top="946" width="491" height="22" compilerOrder="349">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="491" height="23" field="Effects__Notes_24" compilerOrder="350"/>
+            </layout>
+            <layout left="55" top="969" width="173" height="22" compilerOrder="227">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="173" height="23" field="known_magiC_25" compilerOrder="228"/>
+            </layout>
+            <layout left="233" top="969" width="133" height="22" compilerOrder="289">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="133" height="23" field="Cost__Difficulty_25" compilerOrder="290"/>
+            </layout>
+            <layout left="374" top="969" width="491" height="22" compilerOrder="351">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="491" height="23" field="Effects__Notes_25" compilerOrder="352"/>
+            </layout>
+            <layout left="55" top="992" width="173" height="22" compilerOrder="229">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="173" height="23" field="known_magiC_26" compilerOrder="230"/>
+            </layout>
+            <layout left="233" top="992" width="133" height="22" compilerOrder="291">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="133" height="23" field="Cost__Difficulty_26" compilerOrder="292"/>
+            </layout>
+            <layout left="374" top="992" width="491" height="22" compilerOrder="353">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="491" height="23" field="Effects__Notes_26" compilerOrder="354"/>
+            </layout>
+            <layout left="55" top="1014" width="173" height="22" compilerOrder="231">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="173" height="23" field="known_magiC_27" compilerOrder="232"/>
+            </layout>
+            <layout left="233" top="1014" width="133" height="22" compilerOrder="293">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="133" height="23" field="Cost__Difficulty_27" compilerOrder="294"/>
+            </layout>
+            <layout left="374" top="1014" width="491" height="22" compilerOrder="355">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="491" height="23" field="Effects__Notes_27" compilerOrder="356"/>
+            </layout>
+            <layout left="55" top="1037" width="173" height="22" compilerOrder="233">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="173" height="23" field="known_magiC_28" compilerOrder="234"/>
+            </layout>
+            <layout left="233" top="1037" width="133" height="22" compilerOrder="295">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="133" height="23" field="Cost__Difficulty_28" compilerOrder="296"/>
+            </layout>
+            <layout left="374" top="1037" width="491" height="22" compilerOrder="357">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="491" height="23" field="Effects__Notes_28" compilerOrder="358"/>
+            </layout>
+            <layout left="55" top="1060" width="173" height="22" compilerOrder="235">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="173" height="23" field="known_magiC_29" compilerOrder="236"/>
+            </layout>
+            <layout left="233" top="1060" width="133" height="22" compilerOrder="297">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="133" height="23" field="Cost__Difficulty_29" compilerOrder="298"/>
+            </layout>
+            <layout left="374" top="1060" width="491" height="22" compilerOrder="359">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="491" height="23" field="Effects__Notes_29" compilerOrder="360"/>
+            </layout>
+            <layout left="55" top="1083" width="173" height="22" compilerOrder="237">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="173" height="23" field="known_magiC_30" compilerOrder="238"/>
+            </layout>
+            <layout left="233" top="1083" width="133" height="22" compilerOrder="299">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="133" height="23" field="Cost__Difficulty_30" compilerOrder="300"/>
+            </layout>
+            <layout left="374" top="1083" width="491" height="22" compilerOrder="361">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="491" height="23" field="Effects__Notes_30" compilerOrder="362"/>
+            </layout>
+            <layout left="55" top="1106" width="173" height="22" compilerOrder="239">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="173" height="23" field="known_magiC_31" compilerOrder="240"/>
+            </layout>
+            <layout left="233" top="1106" width="133" height="22" compilerOrder="301">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="133" height="23" field="Cost__Difficulty_31" compilerOrder="302"/>
+            </layout>
+            <layout left="374" top="1106" width="491" height="22" compilerOrder="363">
+                <edit transparent="true" fontSize="14.2" fontColor="#000000" horzTextAlign="leading" vertTextAlign="center" left="0" top="0" width="491" height="23" field="Effects__Notes_31" compilerOrder="364"/>
+            </layout>
+        </rectangle>
+    </scrollBox>
+</form>

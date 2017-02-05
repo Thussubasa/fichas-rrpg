@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<form formType="sheetTemplate" dataType="akatosh.d20"
+     title="Ficha TES: D20" name="lfm_tesd20">
+     <label text="Olá mundo"/>
+
+
+</form>

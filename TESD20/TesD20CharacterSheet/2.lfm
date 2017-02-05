@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form name="frmTesD20CharacterSheet2_svg" align="client" theme="light" margins="{top=1}">
+    <style>#frmTesD20CharacterSheet2_svg path {color: black; strokeColor: black; mode: stretch;} 
+#frmTesD20CharacterSheet2_svg label {fontColor: black; textTrimming: none; wordWrap: false; autoSize: true;}</style>
+    <scrollBox align="client">
+        <rectangle width="893" height="1263" color="white">
+            <image left="0" top="0" width="893" height="1263" src="images/2.png" style="stretch" optimize="true" compilerOrder="0"/>
+            <layout left="567" top="109" width="239" height="21" compilerOrder="115">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="239" height="22" field="untitled119__0" compilerOrder="116"/>
+            </layout>
+            <layout left="201" top="111" width="239" height="21" compilerOrder="109">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="239" height="22" field="untitled116__0" compilerOrder="110"/>
+            </layout>
+            <layout left="199" top="135" width="239" height="21" compilerOrder="103">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="239" height="22" field="untitled113__0" compilerOrder="104"/>
+            </layout>
+            <layout left="562" top="136" width="239" height="21" compilerOrder="117">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="239" height="22" field="untitled120__0" compilerOrder="118"/>
+            </layout>
+            <layout left="563" top="158" width="239" height="21" compilerOrder="119">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="239" height="22" field="untitled121__0" compilerOrder="120"/>
+            </layout>
+            <layout left="202" top="159" width="239" height="21" compilerOrder="107">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="239" height="22" field="untitled115__0" compilerOrder="108"/>
+            </layout>
+            <layout left="204" top="184" width="239" height="21" compilerOrder="105">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="239" height="22" field="untitled114__0" compilerOrder="106"/>
+            </layout>
+            <layout left="566" top="185" width="239" height="21" compilerOrder="121">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="239" height="22" field="untitled122__0" compilerOrder="122"/>
+            </layout>
+            <layout left="563" top="210" width="239" height="21" compilerOrder="123">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="239" height="22" field="untitled123__0" compilerOrder="124"/>
+            </layout>
+            <layout left="201" top="211" width="239" height="21" compilerOrder="111">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="239" height="22" field="untitled117__0" compilerOrder="112"/>
+            </layout>
+            <layout left="566" top="233" width="239" height="21" compilerOrder="125">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="239" height="22" field="untitled124__0" compilerOrder="126"/>
+            </layout>
+            <layout left="202" top="235" width="239" height="21" compilerOrder="113">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="239" height="22" field="untitled118__0" compilerOrder="114"/>
+            </layout>
+            <layout left="562" top="257" width="239" height="21" compilerOrder="127">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="239" height="22" field="untitled125__0" compilerOrder="128"/>
+            </layout>
+            <layout left="203" top="259" width="239" height="21" compilerOrder="101">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="239" height="22" field="untitled112__0" compilerOrder="102"/>
+            </layout>
+            <layout left="203" top="313" width="116" height="23" compilerOrder="99">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="116" height="24" field="untitled111__0" compilerOrder="100"/>
+            </layout>
+            <layout left="324" top="313" width="116" height="23" compilerOrder="97">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="116" height="24" field="untitled110__0" compilerOrder="98"/>
+            </layout>
+            <layout left="445" top="313" width="116" height="23" compilerOrder="95">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="116" height="24" field="untitled109__0" compilerOrder="96"/>
+            </layout>
+            <layout left="562" top="313" width="116" height="23" compilerOrder="93">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="116" height="24" field="untitled108__0" compilerOrder="94"/>
+            </layout>
+            <layout left="685" top="314" width="116" height="23" compilerOrder="91">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="116" height="24" field="untitled107__0" compilerOrder="92"/>
+            </layout>
+            <layout left="563" top="337" width="116" height="23" compilerOrder="87">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="116" height="24" field="untitled105__0" compilerOrder="88"/>
+            </layout>
+            <layout left="320" top="338" width="116" height="23" compilerOrder="83">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="116" height="24" field="untitled103__0" compilerOrder="84"/>
+            </layout>
+            <layout left="442" top="338" width="116" height="23" compilerOrder="85">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="116" height="24" field="untitled104__0" compilerOrder="86"/>
+            </layout>
+            <layout left="684" top="338" width="116" height="23" compilerOrder="89">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="116" height="24" field="untitled106__0" compilerOrder="90"/>
+            </layout>
+            <layout left="202" top="340" width="116" height="23" compilerOrder="81">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="116" height="24" field="untitled102__0" compilerOrder="82"/>
+            </layout>
+            <layout left="323" top="359" width="123" height="26" compilerOrder="73">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="123" height="27" field="untitled98__0" compilerOrder="74"/>
+            </layout>
+            <layout left="198" top="360" width="123" height="26" compilerOrder="71">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="123" height="27" field="untitled97__0" compilerOrder="72"/>
+            </layout>
+            <layout left="567" top="362" width="112" height="23" compilerOrder="77">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="112" height="24" field="untitled100__0" compilerOrder="78"/>
+            </layout>
+            <layout left="447" top="363" width="112" height="23" compilerOrder="75">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="112" height="24" field="untitled99__0" compilerOrder="76"/>
+            </layout>
+            <layout left="688" top="363" width="112" height="23" compilerOrder="79">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="112" height="24" field="untitled101__0" compilerOrder="80"/>
+            </layout>
+            <layout left="563" top="415" width="175" height="23" compilerOrder="15">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled69__0" compilerOrder="16"/>
+            </layout>
+            <layout left="201" top="416" width="175" height="23" compilerOrder="5">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled64__0" compilerOrder="6"/>
+            </layout>
+            <layout left="381" top="418" width="175" height="23" compilerOrder="13">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled68__0" compilerOrder="14"/>
+            </layout>
+            <layout left="205" top="442" width="175" height="23" compilerOrder="51">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled87__0" compilerOrder="52"/>
+            </layout>
+            <layout left="384" top="443" width="175" height="23" compilerOrder="49">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled86__0" compilerOrder="50"/>
+            </layout>
+            <layout left="565" top="443" width="175" height="23" compilerOrder="11">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled67__0" compilerOrder="12"/>
+            </layout>
+            <layout left="203" top="464" width="175" height="23" compilerOrder="53">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled88__0" compilerOrder="54"/>
+            </layout>
+            <layout left="565" top="468" width="175" height="23" compilerOrder="9">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled66__0" compilerOrder="10"/>
+            </layout>
+            <layout left="385" top="469" width="175" height="23" compilerOrder="47">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled85__0" compilerOrder="48"/>
+            </layout>
+            <layout left="202" top="489" width="175" height="23" compilerOrder="55">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled89__0" compilerOrder="56"/>
+            </layout>
+            <layout left="386" top="494" width="175" height="23" compilerOrder="45">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled84__0" compilerOrder="46"/>
+            </layout>
+            <layout left="567" top="495" width="175" height="23" compilerOrder="7">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled65__0" compilerOrder="8"/>
+            </layout>
+            <layout left="565" top="515" width="175" height="23" compilerOrder="41">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled82__0" compilerOrder="42"/>
+            </layout>
+            <layout left="202" top="516" width="175" height="23" compilerOrder="57">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled90__0" compilerOrder="58"/>
+            </layout>
+            <layout left="384" top="516" width="175" height="23" compilerOrder="43">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled83__0" compilerOrder="44"/>
+            </layout>
+            <layout left="203" top="539" width="175" height="23" compilerOrder="59">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled91__0" compilerOrder="60"/>
+            </layout>
+            <layout left="381" top="541" width="175" height="23" compilerOrder="39">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled81__0" compilerOrder="40"/>
+            </layout>
+            <layout left="565" top="542" width="175" height="23" compilerOrder="37">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled80__0" compilerOrder="38"/>
+            </layout>
+            <layout left="385" top="565" width="175" height="23" compilerOrder="35">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled79__0" compilerOrder="36"/>
+            </layout>
+            <layout left="565" top="565" width="175" height="23" compilerOrder="17">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled70__0" compilerOrder="18"/>
+            </layout>
+            <layout left="206" top="568" width="175" height="23" compilerOrder="61">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled92__0" compilerOrder="62"/>
+            </layout>
+            <layout left="206" top="590" width="175" height="23" compilerOrder="63">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled93__0" compilerOrder="64"/>
+            </layout>
+            <layout left="565" top="590" width="175" height="23" compilerOrder="19">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled71__0" compilerOrder="20"/>
+            </layout>
+            <layout left="383" top="593" width="175" height="23" compilerOrder="33">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled78__0" compilerOrder="34"/>
+            </layout>
+            <layout left="563" top="616" width="175" height="23" compilerOrder="21">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled72__0" compilerOrder="22"/>
+            </layout>
+            <layout left="383" top="617" width="175" height="23" compilerOrder="29">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled76__0" compilerOrder="30"/>
+            </layout>
+            <layout left="202" top="618" width="175" height="23" compilerOrder="65">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled94__0" compilerOrder="66"/>
+            </layout>
+            <layout left="567" top="642" width="175" height="23" compilerOrder="23">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled73__0" compilerOrder="24"/>
+            </layout>
+            <layout left="201" top="643" width="175" height="23" compilerOrder="67">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled95__0" compilerOrder="68"/>
+            </layout>
+            <layout left="383" top="643" width="175" height="23" compilerOrder="27">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled75__0" compilerOrder="28"/>
+            </layout>
+            <layout left="201" top="665" width="175" height="23" compilerOrder="69">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled96__0" compilerOrder="70"/>
+            </layout>
+            <layout left="563" top="665" width="175" height="23" compilerOrder="25">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled74__0" compilerOrder="26"/>
+            </layout>
+            <layout left="385" top="666" width="175" height="23" compilerOrder="31">
+                <edit transparent="true" fontSize="10.5" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="untitled77__0" compilerOrder="32"/>
+            </layout>
+            <layout left="565" top="730" width="242" height="447" compilerOrder="3">
+                <textEditor left="0" top="0" width="242" height="447" fontSize="10.5" fontColor="#000000" field="untitled63__0" transparent="true" compilerOrder="4"/>
+            </layout>
+            <layout left="76" top="736" width="486" height="443" compilerOrder="1">
+                <textEditor left="0" top="0" width="486" height="443" fontSize="10.5" fontColor="#000000" field="untitled62__0" transparent="true" compilerOrder="2"/>
+            </layout>
+        </rectangle>
+    </scrollBox>
+</form>
